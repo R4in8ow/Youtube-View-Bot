@@ -1,0 +1,5 @@
+# Python 3.x built-in modules used (no install needed):
+# os, sys, subprocess, time, getpass
+
+# If you later add view count using YouTube API:
+requests

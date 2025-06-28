@@ -1,0 +1,6 @@
+# Ignore OpenVPN credentials and sensitive files
+vpn_auth.txt
+__pycache__/
+*.pyc
+.env
+*.log
