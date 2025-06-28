@@ -22,3 +22,6 @@ This Python tool opens a specified YouTube video multiple times using different 
 sudo apt update
 sudo apt install openvpn firefox python3-pip
 pip install -r requirements.txt
+
+## 🔧 Usage
+python3 vpn_viewer.py "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"
